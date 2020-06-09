@@ -31,3 +31,11 @@ Links to various useful web development resources, tools, guides etc.
 
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web)
 - [web.dev](https://web.dev/)
+
+## Legal
+
+- [Basecamp policy templates](https://github.com/basecamp/policies)
+- Andrew Clarke:
+  - [Contract Killer](https://stuffandnonsense.co.uk/projects/contract-killer)
+  - [(Data) Protection Racket](https://stuffandnonsense.co.uk/projects/protection-racket)
+  - [Three Wise Monkeys](https://stuffandnonsense.co.uk/projects/three-wise-monkeys)
