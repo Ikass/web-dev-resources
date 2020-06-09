@@ -12,6 +12,10 @@ Links to various useful web development resources, tools, guides etc.
 - [HTMLDog guides](https://htmldog.com/guides/)
 - [CSS Tricks guides](https://css-tricks.com/guides/)
 
+## Design & Layout
+
+- [UX Checklist](https://uxchecklist.github.io/)
+
 ## Online Coding Bootcamps
 
 - [The Odin Project](https://www.theodinproject.com/)
