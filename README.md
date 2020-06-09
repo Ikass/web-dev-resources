@@ -14,3 +14,9 @@ Links to various useful web development resources, tools, guides etc.
 
 - [The Odin Project](https://www.theodinproject.com/)
 - [Free Code Camp](https://www.freecodecamp.org/)
+
+## Tips
+
+### Performance
+
+- @import vs LINK CSS in HTML (http://www.stevesouders.com/blog/2009/04/09/dont-use-import/)
