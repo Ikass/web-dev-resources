@@ -9,6 +9,8 @@ Links to various useful web development resources, tools, guides etc.
 - [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/) by Shay Howe.
 - [Learn to Code Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/) by Shay Howe.
 - [Code Guide](https://codeguide.co/) by [Mark Otto](https://github.com/mdo) aka [mdo](https://twitter.com/mdo)
+- [HTMLDog guides](https://htmldog.com/guides/)
+- [CSS Tricks guides](https://css-tricks.com/guides/)
 
 ## Online Coding Bootcamps
 
