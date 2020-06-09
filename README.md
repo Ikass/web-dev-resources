@@ -20,3 +20,7 @@ Links to various useful web development resources, tools, guides etc.
 ### Performance
 
 - [@import vs LINK CSS in HTML](http://www.stevesouders.com/blog/2009/04/09/dont-use-import/)
+
+## References
+
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web)
