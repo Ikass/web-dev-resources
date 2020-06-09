@@ -24,3 +24,4 @@ Links to various useful web development resources, tools, guides etc.
 ## References
 
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web)
+- [web.dev](https://web.dev/)
