@@ -20,6 +20,9 @@ Links to various useful web development resources, tools, guides etc.
 
 - [Bootstrap](https://getbootstrap.com/)
 - [W3.CSS](https://www.w3schools.com/w3css/default.asp) - smaller and faster than similar CSS frameworks
+- [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building custom designs.
+- [Tailwind UI](https://tailwindui.com/) - Beautiful UI components
+
 
 ### Themes & Templates
 
