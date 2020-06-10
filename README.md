@@ -40,6 +40,10 @@ Links to various useful web development resources, tools, guides etc.
 
 - [@import vs LINK CSS in HTML](http://www.stevesouders.com/blog/2009/04/09/dont-use-import/)
 
+## Tools
+
+- [Can I Use](https://caniuse.com/) - "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
+
 ## References
 
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web)
