@@ -32,6 +32,7 @@ Links to various useful web development resources, tools, guides etc.
 
 - [The Odin Project](https://www.theodinproject.com/)
 - [Free Code Camp](https://www.freecodecamp.org/)
+- [Turing School of Software and Design](https://frontend.turing.io/) - Your guide to HTML, CSS, JavaScript, React, Node, and more.
 
 ## Tips
 
