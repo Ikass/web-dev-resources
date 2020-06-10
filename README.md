@@ -19,7 +19,7 @@ Links to various useful web development resources, tools, guides etc.
 ### CSS Frameworks
 
 - [Bootstrap](https://getbootstrap.com/)
-- [W3.CSS[(https://www.w3schools.com/w3css/default.asp) - smaller and faster than similar CSS frameworks
+- [W3.CSS](https://www.w3schools.com/w3css/default.asp) - smaller and faster than similar CSS frameworks
 
 ### Themes & Templates
 
