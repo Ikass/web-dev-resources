@@ -16,6 +16,18 @@ Links to various useful web development resources, tools, guides etc.
 
 - [UX Checklist](https://uxchecklist.github.io/)
 
+### CSS Frameworks
+
+- [Bootstrap](https://getbootstrap.com/)
+- [W3.CSS[(https://www.w3schools.com/w3css/default.asp) - smaller and faster than similar CSS frameworks
+
+### Themes & Templates
+
+- [Bootswatch](https://bootswatch.com/) - Free themes for Bootstrap
+- [Bootstrapmade](https://bootstrapmade.com/)
+- [Mobirise](https://mobirise.com/bootstrap-template/)
+- [StartBootstrap](https://startbootstrap.com/themes/)
+
 ## Online Coding Bootcamps
 
 - [The Odin Project](https://www.theodinproject.com/)
