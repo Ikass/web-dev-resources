@@ -50,6 +50,8 @@ Links to various useful web development resources, tools, guides etc.
 ### Tutorials
 
 - [QHMit](https://www.qhmit.com/) - HTML, CSS etc. tutorials
+- [Front-End Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
+- [InternetingIsHard](https://www.internetingishard.com/) - Friendly web development tutorials for complete beginners
 
 ---
 
