@@ -26,6 +26,25 @@ Links to various useful web development resources, tools, guides etc.
 - [W3.CSS](https://www.w3schools.com/w3css/default.asp) - smaller and faster than similar CSS frameworks
 - [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building custom designs.
 - [Tailwind UI](https://tailwindui.com/) - Beautiful UI components
+- [Bulma](https://bulma.io/) - based on Flexbox
+- [Foundation](https://get.foundation/) - the most advanced CSS framework
+- [Pure CSS](https://purecss.io/)
+- [Skeleton](http://getskeleton.com/)
+- [Atomic CSS](https://acss.io/)
+- [Undernet](https://www.undernet.io/)
+- [Mini CSS](https://minicss.org/)
+- [Bourbon](https://www.bourbon.io/)
+- [Cirrus CSS](https://spiderpig86.github.io/Cirrus/)
+- [Dead Simple Grid](https://github.com/mourner/dead-simple-grid)
+- [Picnic CSS](https://picnicss.com/)
+- [Base](https://getbase.org/)
+- [Spectre CSS](https://picturepan2.github.io/spectre/)
+- [Susy](https://www.oddbird.net/susy/)
+- [Tent CSS](https://css.sitetent.com/)
+- [Paper CSS](https://www.getpapercss.com/) - the less formal CSS framework
+- [Miligram](https://milligram.io/)
+
+- [List of awesome CSS frameworks](https://github.com/troxler/awesome-css-frameworks)
 
 ### CSS Toolkits
 
