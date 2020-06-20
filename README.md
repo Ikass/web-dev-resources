@@ -43,6 +43,7 @@ Links to various useful web development resources, tools, guides etc.
 - [Tent CSS](https://css.sitetent.com/)
 - [Paper CSS](https://www.getpapercss.com/) - the less formal CSS framework
 - [Miligram](https://milligram.io/)
+- [Siiimple](https://www.siimple.xyz/) -  A flat, minimal and different CSS framework.
 
 - [List of awesome CSS frameworks](https://github.com/troxler/awesome-css-frameworks)
 
