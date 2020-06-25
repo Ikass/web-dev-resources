@@ -52,6 +52,13 @@ Links to various useful web development resources, tools, guides etc.
 - [Frow CSS](https://frowcss.com/index.html) - Frow is an open source HTML and CSS framework for creating quick & responsive projects on the web, powered by Flexbox
 - [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/) - Cleaner, hack-free CSS
 
+### CSS Resets
+
+
+- [MiniReset](https://jgthms.com/minireset.css/) - A tiny modern CSS reset
+- [CSS Tools: Reset CSS](https://meyerweb.com/eric/tools/css/reset/) - by Eric Meyer
+- [Normalize CSS](https://necolas.github.io/normalize.css/) - A modern, HTML5-ready alternative to CSS resets
+
 ### Themes & Templates
 
 - [Bootswatch](https://bootswatch.com/) - Free themes for Bootstrap
