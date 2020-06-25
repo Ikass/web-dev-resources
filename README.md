@@ -88,6 +88,10 @@ Links to various useful web development resources, tools, guides etc.
 
 - [@import vs LINK CSS in HTML](http://www.stevesouders.com/blog/2009/04/09/dont-use-import/)
 
+### Misc
+
+- [24 Ways](https://24ways.org/) - advent calendar for geeks
+
 ---
 
 ## Tools
