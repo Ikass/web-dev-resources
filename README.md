@@ -58,6 +58,7 @@ Links to various useful web development resources, tools, guides etc.
 - [MiniReset](https://jgthms.com/minireset.css/) - A tiny modern CSS reset
 - [CSS Tools: Reset CSS](https://meyerweb.com/eric/tools/css/reset/) - by Eric Meyer
 - [Normalize CSS](https://necolas.github.io/normalize.css/) - A modern, HTML5-ready alternative to CSS resets
+- [List of CSS Resets](https://perishablepress.com/a-killer-collection-of-global-css-reset-styles/)
 
 ### Themes & Templates
 
