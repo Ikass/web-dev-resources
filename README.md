@@ -76,6 +76,9 @@ Links to various useful web development resources, tools, guides etc.
 - [Forestry](https://forestry.io/)
 - [FrontAid](https://frontaid.io/)
 - [Prose](https://prose.io)
+- [NetlifyCMS](https://www.netlifycms.org/)
+- [CrafterCMS](https://craftercms.org/)
+- [Publii](https://getpublii.com/)
 ---
 
 ## Online Coding Bootcamps
