@@ -70,6 +70,13 @@ Links to various useful web development resources, tools, guides etc.
 - [StartBootstrap](https://startbootstrap.com/themes/)
 
 ---
+## Jamstack
+
+### Headless CMS: Git-based
+- [Forestry](https://forestry.io/)
+- [FrontAid](https://frontaid.io/)
+- [Prose](https://prose.io)
+---
 
 ## Online Coding Bootcamps
 
