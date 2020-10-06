@@ -61,6 +61,10 @@ Links to various useful web development resources, tools, guides etc.
 - [Normalize CSS](https://necolas.github.io/normalize.css/) - A modern, HTML5-ready alternative to CSS resets
 - [Sanitize CSS](https://csstools.github.io/sanitize.css/) - provides consistent, cross-browser default styling of HTML elements alongside useful defaults.
 - [List of CSS Resets](https://perishablepress.com/a-killer-collection-of-global-css-reset-styles/)
+- [Mar](https://github.com/mblode/marx)
+- [Ire Ade CSS base](https://github.com/ireade/css)
+- [Backpack CSS](https://github.com/chris-pearce/backpack.css) - for applications
+- [CSS Reset for minimalists](https://allthingssmitty.com/2017/01/09/css-reset-for-minimalists/)
 
 ### Themes & Templates
 
